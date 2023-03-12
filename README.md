@@ -20,6 +20,11 @@ dart pub get
 flutter run
 ```
 
+## Screenshots
+
+![simulator-screen-1.png](https://github.com/GaetanCottrez/flutter-open-ai/blob/master/screen/simulator-screen-1.png?raw=true)
+![simulator-screen-2.png](https://github.com/GaetanCottrez/flutter-open-ai/blob/master/screen/simulator-screen-2.png?raw=true)
+
 ## Author
 
 👤 **Gaëtan Cottrez <gaetan@apprendre-la-programmation.net>**
